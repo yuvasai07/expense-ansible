@@ -1,4 +1,4 @@
-- name: mysql configuration
+- name: mysqlllll configuration
   hosts: mysqlllll
   become: yes
   tasks:
